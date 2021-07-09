@@ -17,8 +17,8 @@ name: GPKG to PostGIS archive
 
 on:
   push:
-    branches:
-      - master
+    #branches:
+    #  - master
     tags:
       - 'v*'
   #pull_request:
