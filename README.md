@@ -29,7 +29,7 @@ Boundary geometries for model results. All geometries in EPSG 4326.
 
 The hex grid collection is a series of hexagonal geometries and tables developed to help users view the national human settlement layers at different hexagonal aggregation levels outside of the conventional census boundaries.  The hex grid geometries were created in QGIS with the MMQGIS plugin using the Canadian, provincial, and territorial boundary extents at various x grid spacings.  The reference tables are generated and contains information needed for aggregation purposes of the national human settlement layers up to the given hex grid geometry.  All geometries in EPSG 4326.
 
- - HexGrid_1km_{P/T}.gpkg, HexGrid_1km_{P/T}\_unclipped.7z
+ - HexGrid_1km_{P/T}.gpkg, HexGrid_1km_{P/T}_unclipped.7z
     - Clipped/unclipped hexagonal geometry of provinces and territories based on a x grid spacing of approximately 0.01 degrees.
  - HexGrid_5km.7z, HexGrid_5km_unclipped.7z
     - Clipped/unclipped hexagonal geometry of Canada based on a x grid spacing of approximately 0.05 degrees.
